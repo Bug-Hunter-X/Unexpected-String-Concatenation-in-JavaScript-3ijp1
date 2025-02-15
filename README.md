@@ -1,0 +1,1 @@
+This repository demonstrates a common JavaScript bug involving type coercion and unexpected string concatenation.  The `bug.js` file contains the erroneous code, while `bugSolution.js` provides a corrected version with explicit type checking.  This issue highlights the importance of careful type handling in JavaScript to avoid unintended behavior.
